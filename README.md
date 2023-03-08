@@ -5,12 +5,11 @@
  -->
 ![Background](https://user-images.githubusercontent.com/115474818/223842035-bc8d7570-72c2-4de9-ba25-f67025eb6011.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Mahangare
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm  Rohan Mahangare
 ======================================================================================================
 
 # Java Backend Developer
 -----------------------
-
 * 🌍  I'm based in Navi Mumbai, Maharashtra
 * ✉️  You can contact me at [mahangarerohan@gmail.com](mailto:mahangarerohan@gmail.com)
 * 🧠  I'm learning Springboot
