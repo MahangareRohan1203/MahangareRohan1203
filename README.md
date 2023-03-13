@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Navi Mumbai, Maharashtra
 * ✉️  You can contact me at [mahangarerohan@gmail.com](mailto:mahangarerohan@gmail.com)
-* 👨‍💻 All of my projects are available at [MahangareRohan1203](https://MahangareRohan1203.github.io)
+* 👨‍💻 All of my projects are available at [MahangareRohan1203.github.io/](https://MahangareRohan1203.github.io)
 * 🧠  I'm learning Springboot
 
 ## Skills
